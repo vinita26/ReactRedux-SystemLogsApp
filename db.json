@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "id": 4,
+      "message": "Fixed",
+      "attention": true,
+      "tech": "Nanthini Pillai"
+    },
+    {
+      "id": 5,
+      "message": "Workstation 007 not posting",
+      "attention": false,
+      "tech": "Ashish Ahuja"
+    },
+    {
+      "id": 6,
+      "message": "Changed memory on workstation 007",
+      "attention": true,
+      "tech": "Pragathi Nataraj"
+    }
+  ],
+  "tech": [
+    {
+      "id": 1,
+      "firstName": "Vinita",
+      "lastName": "Gupta",
+      "title": "SLA1",
+      "imgSrc": "https://image.shutterstock.com/image-photo/beautiful-woman-going-work-coffee-600w-778962694.jpg"
+    },
+    {
+      "id": 2,
+      "firstName": "Pooja",
+      "lastName": "Chavan",
+      "title": "AL2",
+      "imgSrc": "https://image.shutterstock.com/image-photo/confident-business-expert-attractive-young-600w-566714665.jpg"
+    },
+    {
+      "id": 3,
+      "firstName": "Ashish",
+      "lastName": "Ahuja",
+      "title": "SLA2",
+      "imgSrc": "https://image.shutterstock.com/image-photo/young-handsome-business-man-choosing-260nw-1560193649.jpg"
+    },
+    {
+      "id": 4,
+      "firstName": "Pragathi",
+      "lastName": "Nataraj",
+      "title": "AL1",
+      "imgsrc": "https://image.shutterstock.com/image-photo/woman-walking-using-smart-phone-260nw-1530676193.jpg"
+    }
+  ]
+}
